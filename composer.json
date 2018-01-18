@@ -1,0 +1,13 @@
+{
+    "name": "administrator/alipay",
+    "description": "a alipay",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "orchief",
+            "email": "18230373213@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
