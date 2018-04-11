@@ -8,8 +8,5 @@
             "email": "18230373213@163.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-        "orchief/alipay": "dev-master"
-    }
+    "minimum-stability": "dev"
 }
