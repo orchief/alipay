@@ -1,6 +1,6 @@
 <?php
 
-namespace OrChief;
+namespace alipay;
 
 /**
  * 支付类

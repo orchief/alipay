@@ -1,12 +1,20 @@
 {
     "name": "orchief/alipay",
-    "description": "a alipay",
+    "description": "alipay",
     "license": "MIT",
     "authors": [
         {
             "name": "orchief",
-            "email": "18230373213@163.com"
+            "email": "orchief@163.com"
         }
     ],
-    "minimum-stability": "dev"
+    "require": {
+	"php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "alipay\\": "src"
+        },
+        "files": []
+    }
 }
